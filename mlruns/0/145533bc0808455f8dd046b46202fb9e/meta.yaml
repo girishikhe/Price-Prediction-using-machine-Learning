@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlops/mlruns/0/145533bc0808455f8dd046b46202fb9e/artifacts
+end_time: 1714033143381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 145533bc0808455f8dd046b46202fb9e
+run_name: useful-deer-286
+run_uuid: 145533bc0808455f8dd046b46202fb9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714033126105
+status: 3
+tags: []
+user_id: use
