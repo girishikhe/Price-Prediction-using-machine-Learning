@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlops/mlruns/0/dc56cad5cdf84aee9b10a29e2e90ce85/artifacts
+end_time: 1714052481993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc56cad5cdf84aee9b10a29e2e90ce85
+run_name: charming-ox-513
+run_uuid: dc56cad5cdf84aee9b10a29e2e90ce85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714052470983
+status: 3
+tags: []
+user_id: use
