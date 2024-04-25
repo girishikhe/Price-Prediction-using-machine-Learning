@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlops/mlruns/0/a34325aa251141f5a4b362ff4e61da95/artifacts
+end_time: 1714018791583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a34325aa251141f5a4b362ff4e61da95
+run_name: rogue-wasp-749
+run_uuid: a34325aa251141f5a4b362ff4e61da95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714018780407
+status: 3
+tags: []
+user_id: use
