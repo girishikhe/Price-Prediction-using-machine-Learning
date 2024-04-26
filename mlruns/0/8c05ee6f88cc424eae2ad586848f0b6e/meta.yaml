@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlops/mlruns/0/8c05ee6f88cc424eae2ad586848f0b6e/artifacts
+end_time: 1714103126421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c05ee6f88cc424eae2ad586848f0b6e
+run_name: auspicious-gnat-301
+run_uuid: 8c05ee6f88cc424eae2ad586848f0b6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714103115099
+status: 3
+tags: []
+user_id: use
